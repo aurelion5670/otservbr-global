@@ -28,7 +28,7 @@
  * @brief Account information, like characters, account name, premium
  * coin, etc
  */
- 
+
 #ifdef MULTIWORLD_SYSTEM
 	struct Character {
 		std::string name;
